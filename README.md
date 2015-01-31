@@ -11,5 +11,5 @@ memory_profiler [https://pypi.python.org/pypi/memory_profiler]
 psutil [https://pypi.python.org/pypi/psutil]
 
 ## Module
-FuctionProfiler.py
+FcnProfiler.py
 
